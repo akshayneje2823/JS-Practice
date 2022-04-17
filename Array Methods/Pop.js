@@ -1,4 +1,4 @@
-// REMOVES FIRST ELEMENT OF AN AARAY
+// REMOVES last ELEMENT OF AN AARAY
 
 const Arr = [11,22,33,44,55]
 console.log(Arr.pop())
