@@ -1,0 +1,2 @@
+In javascript ,Object are king ,
+In javascript everything is an object.
