@@ -4,3 +4,4 @@ const findIndex = myArray.findIndex(function(x){
     return x%2 == 0;
 });
 console.log(findIndex)
+console.log("Hello")
